@@ -1,0 +1,23 @@
+{
+  "name": "zoom",
+  "version": "1.0.0",
+  "description": "Zoom clone coding",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.5",
+    "@babel/node": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "pug": "^3.0.2",
+    "socket.io": "^4.4.0",
+    "ws": "^7.5.3"
+  }
+}
